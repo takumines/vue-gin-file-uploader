@@ -1,4 +1,4 @@
-module vue-gin-file-uploader/server
+module github.com/takumines/vue-gin-file-uploaderserver
 
 go 1.15
 
